@@ -1,0 +1,42 @@
+Filetype: Flipper NFC device
+Version: 3
+# Nfc device type can be UID, Mifare Ultralight, Mifare Classic or ISO15693
+Device type: Mifare Ultralight 11
+# UID is common for all formats
+UID: 04 EC 81 22 7F 72 80
+# ISO14443 specific fields
+ATQA: 00 44
+SAK: 00
+# Mifare Ultralight specific data
+Data format version: 1
+Signature: CC 74 AA A5 23 6F 46 7F D6 D3 DE A1 C3 E8 03 2A 26 81 36 F3 09 D5 B9 AB A1 F1 7F 10 AB 25 A3 F3
+Mifare version: 00 04 03 01 01 00 0B 03
+Counter 0: 0
+Tearing 0: BD
+Counter 1: 0
+Tearing 1: BD
+Counter 2: 0
+Tearing 2: BD
+Pages total: 20
+Pages read: 20
+Page 0: 04 EC 81 E1
+Page 1: 22 7F 72 80
+Page 2: AF 48 E0 00
+Page 3: FF FF FF FF
+Page 4: 00 00 00 00
+Page 5: 32 93 C1 20
+Page 6: 94 04 00 00
+Page 7: 18 23 D1 E7
+Page 8: 0A 52 B5 06
+Page 9: 50 60 21 00
+Page 10: C9 00 7D 8C
+Page 11: 20 10 2C 7F
+Page 12: 02 52 B5 06
+Page 13: 50 60 21 00
+Page 14: C9 00 7D 8C
+Page 15: 20 10 72 84
+Page 16: 00 00 00 FF
+Page 17: 00 05 00 00
+Page 18: FF FF FF FF
+Page 19: 00 00 00 00
+Failed authentication attempts: 0
