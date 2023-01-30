@@ -7,7 +7,7 @@ Use the ARTM's Chrono app ([Google Play](https://play.google.com/store/apps/deta
 
 I can be reached on Twitter and in both the [Official Flipper Devices](http://flipperzero.one/discord) and [Rogue Master Firmware](https://discord.gg/gF2bBUzAFe) Discords. 
 
-Discord: [@Pathfinder#0001](https://discordapp.com/users/403206991796764673)
+Discord: [@Pathfinder#0001](https://discordapp.com/users/403206991796764673) | 
 Twitter: [@Pathfinder](https://twitter.com/pathfinder)
 
 ![Flipper knows Kung Fu](https://i.gyazo.com/ce48e1fedebe92d17526c92a43a5d640.jpg)
