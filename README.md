@@ -1,5 +1,5 @@
 # Flipper ARTM NFC card scans
-_I decided I should start sharing the NFC scans of all the discarded cards I've been finding in the Metro in Montreal. Lots of fun decoding them. I'll keep adding more over time.  Enjoy! -Pathfinder_
+_I decided I should start sharing the NFC scans of all the discarded cards I've been finding in the Metro in Montreal. Lots of fun decoding them. I'll keep adding more over time.  Enjoy!_
 
 Various NFC-based [ARTM](https://www.artm.quebec/) transit cards in Quebec scanned with the [Flipper Zero](https://flipperzero.one/).
  
@@ -13,6 +13,6 @@ I can be reached on Twitter and in both the [Official Flipper Devices](http://fl
 Discord: [@Pathfinder#0001](https://discordapp.com/users/403206991796764673) | 
 Twitter: [@Pathfinder](https://twitter.com/pathfinder)
 
-_I NOTE: I'm sharing data on *dead* cards that were found as discarded trash.  If you want scans of *valid* cards, you'll have to do that yourself.  I'm not encouraging or enabling anyone to ride for free.  With my provided scans you can use the data to learn how different data are encoded on the card (e.g., visited transit lines, dates, timestamps, card type, etc.)  It's a fun academic puzzle to decipher.
+_IMPORTANT NOTE: I'm sharing data on *dead* cards that were found as discarded trash.  If you want scans of *valid* cards, you'll have to do that yourself.  I'm not encouraging or enabling anyone to ride for free.  With my provided scans you can use the data to learn how different data are encoded on the card (e.g., visited transit lines, dates, timestamps, card type, etc.)  It's a fun academic puzzle to decipher._
 
 ![Flipper knows Kung Fu](https://i.gyazo.com/ce48e1fedebe92d17526c92a43a5d640.jpg)
