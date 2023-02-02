@@ -1,5 +1,5 @@
-# Flipper ARTM NFC card scans (and other Train Cards)
-_I decided I should start sharing the NFC scans of all the discarded cards I've been finding in the Metro in Montreal. Lots of fun decoding them. I'll keep adding more over time.  Enjoy!_
+# Flipper ARTM NFC card scans (and transportation cards from other cities)
+_I decided I should start sharing the NFC scans of all the discarded cards I've been finding in the Metro in Montreal. Lots of fun decoding them. I'll keep adding more over time, and please contact me if you have any scans of your own that you would like added to this public repo. Sharing knowledge is how we all learn. Enjoy!_
 
 Various NFC-based [ARTM](https://www.artm.quebec/) transit cards in Quebec scanned with the [Flipper Zero](https://flipperzero.one/).
  
