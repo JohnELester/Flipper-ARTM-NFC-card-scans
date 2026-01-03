@@ -1,0 +1,14 @@
+Occasional card that has 2 rides and is unused:
+
+Page 3: 00 00 00 00
+Page 4: 00 01 00 01
+
+Occasional card that has 2 rides and has been used once:
+
+Page 3: FF FF FF FE
+Page 4: 00 00 00 00
+
+Occasional card that has 2 rides and has been used twice:
+
+Page 3: FF FF FF FF
+Page 4: 00 00 00 00
